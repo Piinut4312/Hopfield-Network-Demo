@@ -1,0 +1,6 @@
+/.venv
+/build
+/dist
+/Hopfield Network Demo.spec
+/main.spec
+/__pycache__
